@@ -3,20 +3,20 @@
 This repository contains a collection of Kotlin practice exercises designed to improve understanding and proficiency in various Kotlin concepts, including basic syntax, control flow, functional programming, object-oriented programming, coroutines, and more.
 
 ## Table of Contents
-1. [Basic Syntax and Data Types](#basic-syntax-and-data-types)
-2. [Control Flow](#control-flow)
-3. [Functions and Lambdas](#functions-and-lambdas)
-4. [Collections](#collections)
-5. [Null Safety](#null-safety)
-6. [Object-Oriented Programming](#object-oriented-programming)
-7. [Generics](#generics)
-8. [Coroutines](#coroutines)
-9. [Delegation](#delegation)
-10. [Advanced Features](#advanced-features)
-11. [Functional Programming](#functional-programming)
-12. [Kotlin DSL](#kotlin-dsl)
-13. [Concurrency with Coroutines](#concurrency-with-coroutines)
-14. [Annotations and Reflection](#annotations-and-reflection)
+1. [Basic Syntax and Data Types](https://github.com/FarDay87/KotlinBasics/tree/main/01_basic_syntax_and_data_types)
+2. [Control Flow](https://github.com/FarDay87/KotlinBasics/tree/main/02_control_flow)
+3. [Functions and Lambdas](https://github.com/FarDay87/KotlinBasics/tree/main/03_functions_and_lambdas)
+4. [Collections](https://github.com/FarDay87/KotlinBasics/tree/main/04_collections)
+5. [Null Safety](https://github.com/FarDay87/KotlinBasics/tree/main/05_null_safety)
+6. [Object-Oriented Programming](https://github.com/FarDay87/KotlinBasics/tree/main/06_object-oriented_programming)
+7. [Generics](https://github.com/FarDay87/KotlinBasics/tree/main/07_generics)
+8. [Coroutines](https://github.com/FarDay87/KotlinBasics/tree/main/08_coroutines)
+9. [Delegation](https://github.com/FarDay87/KotlinBasics/tree/main/09_delegation)
+10. [Advanced Features](https://github.com/FarDay87/KotlinBasics/tree/main/10_advanced_features)
+11. [Functional Programming](https://github.com/FarDay87/KotlinBasics/tree/main/11_functional_programming)
+12. [Kotlin DSL](https://github.com/FarDay87/KotlinBasics/tree/main/12_kotlin_dsl)
+13. [Concurrency with Coroutines](https://github.com/FarDay87/KotlinBasics/tree/main/13_concurrency_with_coroutines)
+14. [Annotations and Reflection](https://github.com/FarDay87/KotlinBasics/tree/main/14_annotations_and_reflection)
 
 ## Prerequisites
 
